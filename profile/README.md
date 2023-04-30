@@ -3,8 +3,6 @@
   <img src="https://user-images.githubusercontent.com/56924505/235370833-adb8ec38-8192-4e83-807f-ed899f7973d0.png" alt="Light Text Banner" />
 </p>
 
-Crossify is a decentralized transaction platform that bridges the gap between crypto and fiat currencies, making it easy for users to make transactions in the blockchain ecosystem. It combines the best features of traditional payment systems and cryptocurrencies to provide a seamless, frictionless, and user-friendly experience for both retail customers and businesses.
-
 Crossify aims to revolutionize the way people use cryptocurrencies in their day-to-day activities, providing a comprehensive platform for users to send, receive, and use cryptocurrencies, as well as interact with various blockchain networks and decentralized applications (DApps).
 
 ## Technical Overview
